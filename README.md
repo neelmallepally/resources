@@ -8,5 +8,8 @@
 * [Is the repository pattern useful with Entity Framework Core?](https://www.thereformedprogrammer.net/is-the-repository-pattern-useful-with-entity-framework-core/)
 * [Adding ASP.NET Core Identity to an existing project](https://hanson.io/bootstrapping-asp-net-core-week-4/)
 
+#### books
+* [The Little ASP.NET Core Book](https://www.recaffeinate.co/book/)
+
 #### Tasks
 - [ ] Check The [Morning Brew Blog](http://blog.cwa.me.uk/) posts every Friday for the week and make list of things to try from the links.
