@@ -7,6 +7,7 @@
 #### blog posts
 * [Is the repository pattern useful with Entity Framework Core?](https://www.thereformedprogrammer.net/is-the-repository-pattern-useful-with-entity-framework-core/)
 * [Adding ASP.NET Core Identity to an existing project](https://hanson.io/bootstrapping-asp-net-core-week-4/)
+* [OpenID Connect Debugger](https://www.recaffeinate.co/post/introducing-openid-connect-debugger/)
 
 #### books
 * [The Little ASP.NET Core Book](https://www.recaffeinate.co/book/)
