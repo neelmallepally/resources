@@ -13,3 +13,6 @@
 
 #### Tasks
 - [ ] Check The [Morning Brew Blog](http://blog.cwa.me.uk/) posts every Friday for the week and make list of things to try from the links.
+
+#### Issues
+* How to configure custom.cshtml as default page in Razor Pages?
