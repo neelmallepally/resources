@@ -9,6 +9,7 @@
 * [Adding ASP.NET Core Identity to an existing project](https://hanson.io/bootstrapping-asp-net-core-week-4/)
 * [OpenID Connect Debugger](https://www.recaffeinate.co/post/introducing-openid-connect-debugger/)
 * [ASP.NET Identity w/o Entity Framework](https://markjohnson.io/articles/asp-net-core-identity-without-entity-framework/)
+* [Debugging ASP.NET Source Code](https://www.stevejgordon.co.uk/debugging-asp-net-core-2-source)
 
 #### books
 * [The Little ASP.NET Core Book](https://www.recaffeinate.co/book/)
