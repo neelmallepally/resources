@@ -20,5 +20,5 @@
 #### Issues
 * How to configure custom.cshtml as default page in Razor Pages?
 
-#### Github Issues Following
-* https://github.com/aspnet/Security/issues/35
+#### Github Auth Samples
+* https://github.com/aspnet/AuthSamples
