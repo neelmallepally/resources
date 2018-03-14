@@ -10,7 +10,7 @@
 * [OpenID Connect Debugger](https://www.recaffeinate.co/post/introducing-openid-connect-debugger/)
 * [ASP.NET Identity w/o Entity Framework](https://markjohnson.io/articles/asp-net-core-identity-without-entity-framework/)
 * [Debugging ASP.NET Source Code](https://www.stevejgordon.co.uk/debugging-asp-net-core-2-source)
-* [The line ending in the following file are not consistent] (http://www.adamtuliper.com/2015/10/stop-visual-studio-from-complaining.html)
+* [The line ending in the following file are not consistent](http://www.adamtuliper.com/2015/10/stop-visual-studio-from-complaining.html)
 
 #### books
 * [The Little ASP.NET Core Book](https://www.recaffeinate.co/book/)
