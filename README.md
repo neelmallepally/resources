@@ -26,3 +26,4 @@
 
 #### angular
 * [Augulary](https://augury.angular.io/)
+* [compodoc](https://compodoc.github.io/compodoc/)
