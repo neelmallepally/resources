@@ -32,4 +32,9 @@
 #### MarkDown Shortcuts
 0. [Microsoft Guide](https://docs.microsoft.com/en-us/vsts/collaborate/markdown-guidance)
 #### Window Shortcuts
-- windows logo + E --> Open File Explorer
+**File Explorer** 
+- Open File Explorer = windows logo + E
+- Alt + F4 --> Closes the File Explorer
+- Alt+D --> Highlight address bar
+- F4 --> Opens a drop-dwon list of folders in the address bar.
+
