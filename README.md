@@ -27,3 +27,9 @@
 #### angular
 * [Augulary](https://augury.angular.io/)
 * [compodoc](https://compodoc.github.io/compodoc/)
+
+
+#### MarkDown Shortcuts
+0. [Microsoft Guide](https://docs.microsoft.com/en-us/vsts/collaborate/markdown-guidance)
+#### Window Shortcuts
+- windows logo + E --> Open File Explorer
