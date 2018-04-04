@@ -39,3 +39,6 @@
 - Alt+D --> Highlight address bar
 - F4 --> Opens a drop-dwon list of folders in the address bar.
 
+#### git tips & trics
+ - To find parent branch of current branch - `git show-branch | grep '*' | grep -v "$(git rev-parse --abbrev-ref HEAD)" | head -n1 | sed 's/.*\[\(.*\)\].*/\1/' | sed 's/[\^~].*//'`
+
