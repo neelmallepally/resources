@@ -12,6 +12,7 @@
 * [Debugging ASP.NET Source Code](https://www.stevejgordon.co.uk/debugging-asp-net-core-2-source)
 * [The line ending in the following file are not consistent](http://www.adamtuliper.com/2015/10/stop-visual-studio-from-complaining.html)
 * https://joonasw.net/view/creating-auth-scheme-in-aspnet-core-2
+* https://learn-blazor.com
 
 #### books
 * [The Little ASP.NET Core Book](https://www.recaffeinate.co/book/)
