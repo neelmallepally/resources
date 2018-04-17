@@ -13,6 +13,7 @@
 * [The line ending in the following file are not consistent](http://www.adamtuliper.com/2015/10/stop-visual-studio-from-complaining.html)
 * https://joonasw.net/view/creating-auth-scheme-in-aspnet-core-2
 * https://learn-blazor.com
+* [ADDING HTTP HEADERS TO IMPROVE SECURITY IN AN ASP.NET MVC CORE APPLICATION](https://damienbod.com/2018/02/08/adding-http-headers-to-improve-security-in-an-asp-net-mvc-core-application/)
 
 #### books
 * [The Little ASP.NET Core Book](https://www.recaffeinate.co/book/)
