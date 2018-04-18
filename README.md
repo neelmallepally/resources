@@ -15,6 +15,9 @@
 * https://learn-blazor.com
 * [ADDING HTTP HEADERS TO IMPROVE SECURITY IN AN ASP.NET MVC CORE APPLICATION](https://damienbod.com/2018/02/08/adding-http-headers-to-improve-security-in-an-asp-net-mvc-core-application/)
 
+#### my blog posts
+* TO DO: ASP.Net Core Cookie Authentication in a Web Farm with DataProtection Middleware and Dapper
+
 #### books
 * [The Little ASP.NET Core Book](https://www.recaffeinate.co/book/)
 * [csharp-smorgasbord](https://cdn.filipekberg.se/fekberg-blog/csharp-smorgasbord-free/Filip_Ekberg-CSharp_Smorgasbord.pdf)
