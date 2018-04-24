@@ -21,6 +21,7 @@
 #### books
 * [The Little ASP.NET Core Book](https://www.recaffeinate.co/book/)
 * [csharp-smorgasbord](https://cdn.filipekberg.se/fekberg-blog/csharp-smorgasbord-free/Filip_Ekberg-CSharp_Smorgasbord.pdf)
+* [http://goalkicker.com](http://goalkicker.com)
 
 #### Tasks
 - [ ] Check The [Morning Brew Blog](http://blog.cwa.me.uk/) posts every Friday for the week and make list of things to try from the links.
