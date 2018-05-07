@@ -40,6 +40,7 @@
 #### angular
 * [Augulary](https://augury.angular.io/)
 * [compodoc](https://compodoc.github.io/compodoc/)
+* [Http Requests with RxJs switchMap](https://hackernoon.com/using-rxjs-to-handle-http-requests-what-ive-learned-4640aaf4646c)
 
 
 #### MarkDown Shortcuts
