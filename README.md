@@ -41,6 +41,7 @@
 * [Augulary](https://augury.angular.io/)
 * [compodoc](https://compodoc.github.io/compodoc/)
 * [Http Requests with RxJs switchMap](https://hackernoon.com/using-rxjs-to-handle-http-requests-what-ive-learned-4640aaf4646c)
+* [ng-conf 2018 videos](https://nitayneeman.com/posts/all-talks-from-ng-conf-2018/?utm_campaign=NG-Newsletter&utm_medium=email&utm_source=NG-Newsletter_250#angular-cdk-and-material-in-2018)
 
 
 #### MarkDown Shortcuts
