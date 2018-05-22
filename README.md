@@ -4,7 +4,7 @@
 * [Feb 20, 2018 Razor UI in class libraries](https://www.one-tab.com/page/PiTdahJmTn65szGajXoqwA)
 
 
-#### blog posts
+#### ASP.NET blog posts
 * [Is the repository pattern useful with Entity Framework Core?](https://www.thereformedprogrammer.net/is-the-repository-pattern-useful-with-entity-framework-core/)
 * [Adding ASP.NET Core Identity to an existing project](https://hanson.io/bootstrapping-asp-net-core-week-4/)
 * [OpenID Connect Debugger](https://www.recaffeinate.co/post/introducing-openid-connect-debugger/)
@@ -16,9 +16,17 @@
 * [ADDING HTTP HEADERS TO IMPROVE SECURITY IN AN ASP.NET MVC CORE APPLICATION](https://damienbod.com/2018/02/08/adding-http-headers-to-improve-security-in-an-asp-net-mvc-core-application/)
 * [ASP.NET Identity Series Part I](https://chsakell.com/2018/04/28/asp-net-core-identity-series-getting-started/?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=ASP.NET%20Weekly) 
 
-#### workshops
+#### ASP.NET workshops
 * [ASP.NET Core Authentication](https://github.com/blowdart/AspNetAuthenticationWorkshop)
 * [ASP.NET Core Authorization](https://github.com/blowdart/AspNetAuthorizationWorkshop/tree/core2)
+
+#### angular
+* [Augulary](https://augury.angular.io/)
+* [compodoc](https://compodoc.github.io/compodoc/)
+* [Http Requests with RxJs switchMap](https://hackernoon.com/using-rxjs-to-handle-http-requests-what-ive-learned-4640aaf4646c)
+* [ng-conf 2018 videos](https://nitayneeman.com/posts/all-talks-from-ng-conf-2018/?utm_campaign=NG-Newsletter&utm_medium=email&utm_source=NG-Newsletter_250#angular-cdk-and-material-in-2018)
+* [Angular In Depth Blog](https://blog.angularindepth.com)
+* [CRUD Operations Using Angular HttpClient](http://www.dotnetcurry.com/angularjs/1438/http-client-angular)
 
 #### my blog posts
 * TO DO: ASP.Net Core Cookie Authentication in a Web Farm with DataProtection Middleware and Dapper
@@ -37,14 +45,6 @@
 
 #### Github Auth Samples
 * https://github.com/aspnet/AuthSamples
-
-#### angular
-* [Augulary](https://augury.angular.io/)
-* [compodoc](https://compodoc.github.io/compodoc/)
-* [Http Requests with RxJs switchMap](https://hackernoon.com/using-rxjs-to-handle-http-requests-what-ive-learned-4640aaf4646c)
-* [ng-conf 2018 videos](https://nitayneeman.com/posts/all-talks-from-ng-conf-2018/?utm_campaign=NG-Newsletter&utm_medium=email&utm_source=NG-Newsletter_250#angular-cdk-and-material-in-2018)
-* [Angular In Depth Blog](https://blog.angularindepth.com)
-* [CRUD Operations Using Angular HttpClient](http://www.dotnetcurry.com/angularjs/1438/http-client-angular)
 
 
 #### MarkDown Shortcuts
