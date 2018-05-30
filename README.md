@@ -29,6 +29,9 @@
 * [Angular In Depth Blog](https://blog.angularindepth.com)
 * [CRUD Operations Using Angular HttpClient](http://www.dotnetcurry.com/angularjs/1438/http-client-angular)
 
+#### GraphQL
+* [GraphQL Asp.Net Sample Series](http://fiyazhasan.me/graphql-with-asp-net-core-part-ii-middleware/)
+
 #### my blog posts
 * TO DO: ASP.Net Core Cookie Authentication in a Web Farm with DataProtection Middleware and Dapper
 
