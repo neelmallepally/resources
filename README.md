@@ -15,6 +15,7 @@
 * https://learn-blazor.com
 * [ADDING HTTP HEADERS TO IMPROVE SECURITY IN AN ASP.NET MVC CORE APPLICATION](https://damienbod.com/2018/02/08/adding-http-headers-to-improve-security-in-an-asp-net-mvc-core-application/)
 * [ASP.NET Identity Series Part I](https://chsakell.com/2018/04/28/asp-net-core-identity-series-getting-started/?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=ASP.NET%20Weekly) 
+* [ASP.NET Weekly](https://www.getrevue.co/profile/aspnetweekly)
 
 #### ASP.NET workshops
 * [ASP.NET Core Authentication](https://github.com/blowdart/AspNetAuthenticationWorkshop)
