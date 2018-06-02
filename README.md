@@ -31,6 +31,7 @@
 
 #### GraphQL
 * [GraphQL Asp.Net Sample Series](http://fiyazhasan.me/graphql-with-asp-net-core-part-ii-middleware/)
+* [GraphQL, Asp.Net Core + EF](https://fullstackmark.com/post/17/building-a-graphql-api-with-aspnet-core-2-and-entity-framework-core)
 
 #### my blog posts
 * TO DO: ASP.Net Core Cookie Authentication in a Web Farm with DataProtection Middleware and Dapper
