@@ -51,6 +51,9 @@
 #### Github Auth Samples
 * https://github.com/aspnet/AuthSamples
 
+#### Community
+* http://jakedawkins.com
+
 
 #### MarkDown Shortcuts
 0. [Microsoft Guide](https://docs.microsoft.com/en-us/vsts/collaborate/markdown-guidance)
