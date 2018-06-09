@@ -69,4 +69,5 @@
 
 #### miscellaneous 
 - webgraphviz
+- [keyframes google chrome extension for animations CSS](https://www.youtube.com/watch?v=H598jXvQhLw)
 - [Versioning REST Api Best Practices](https://stackoverflow.com/questions/389169/best-practices-for-api-versioning)
