@@ -66,6 +66,9 @@
 
 #### git tips & trics
  - To find parent branch of current branch - `git show-branch | grep '*' | grep -v "$(git rev-parse --abbrev-ref HEAD)" | head -n1 | sed 's/.*\[\(.*\)\].*/\1/' | sed 's/[\^~].*//'`
+ 
+ #### vs code short cuts
+ - To change a variable name and all its reference in the code use F2
 
 #### miscellaneous 
 - webgraphviz
