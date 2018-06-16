@@ -69,6 +69,14 @@
  
  #### vs code short cuts
  - To change a variable name and all its reference in the code use F2
+ - ctrl + P to open up command pallette. You can search any file in the project with this.
+ 
+ #### vs code plugins
+ - Move TS --- to move files. It auto updates all references.
+ - Bracket Pair Colorization 
+ - GraphQL for VS Code
+ - Prettier Code Formatter
+ - TSLint
 
 #### miscellaneous 
 - webgraphviz
