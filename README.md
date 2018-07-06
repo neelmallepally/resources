@@ -20,6 +20,7 @@
 #### ASP.NET workshops
 * [ASP.NET Core Authentication](https://github.com/blowdart/AspNetAuthenticationWorkshop)
 * [ASP.NET Core Authorization](https://github.com/blowdart/AspNetAuthorizationWorkshop/tree/core2)
+* [ASP.NET Core Application](https://www.jerriepelser.com/books/airport-explorer/basic/intro/)
 
 #### angular
 * [Augulary](https://augury.angular.io/)
