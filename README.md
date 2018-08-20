@@ -17,6 +17,7 @@
 * [ASP.NET Identity Series Part I](https://chsakell.com/2018/04/28/asp-net-core-identity-series-getting-started/?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=ASP.NET%20Weekly) 
 * [ASP.NET Weekly](https://www.getrevue.co/profile/aspnetweekly)
 * [Customizing Swagger UI](https://cpratt.co/customizing-swagger-ui-in-asp-net-core/)
+* [Custom CORS Policy](https://social.technet.microsoft.com/wiki/contents/articles/51042.asp-net-core-2-0-applying-cors-policies.aspx)
 
 #### ASP.NET workshops
 * [ASP.NET Core Authentication](https://github.com/blowdart/AspNetAuthenticationWorkshop)
