@@ -32,9 +32,12 @@
 * [Angular In Depth Blog](https://blog.angularindepth.com)
 * [CRUD Operations Using Angular HttpClient](http://www.dotnetcurry.com/angularjs/1438/http-client-angular)
 
-#### GraphQL
+#### GraphQL & REST Apis
 * [GraphQL Asp.Net Sample Series](http://fiyazhasan.me/graphql-with-asp-net-core-part-ii-middleware/)
 * [GraphQL, Asp.Net Core + EF](https://fullstackmark.com/post/17/building-a-graphql-api-with-aspnet-core-2-and-entity-framework-core)
+* [Designing a Beautiful REST+JSON API](https://www.youtube.com/watch?v=5WXYw4J4QOU)
+* [Phil Sturgeon](https://philsturgeon.uk/)
+* [Nate Barbettini – API Throwdown: RPC vs REST vs GraphQL, Iterate 2018](https://www.youtube.com/watch?v=IvsANO0qZEg)
 
 #### my blog posts
 * TO DO: ASP.Net Core Cookie Authentication in a Web Farm with DataProtection Middleware and Dapper
