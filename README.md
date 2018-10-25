@@ -32,6 +32,7 @@
 * [ng-conf 2018 videos](https://nitayneeman.com/posts/all-talks-from-ng-conf-2018/?utm_campaign=NG-Newsletter&utm_medium=email&utm_source=NG-Newsletter_250#angular-cdk-and-material-in-2018)
 * [Angular In Depth Blog](https://blog.angularindepth.com)
 * [CRUD Operations Using Angular HttpClient](http://www.dotnetcurry.com/angularjs/1438/http-client-angular)
+* [RxJs](https://medium.com/@paynoattn/3-common-mistakes-i-see-people-use-in-rx-and-the-observable-pattern-ba55fee3d031)
 
 #### GraphQL & REST Apis
 * [GraphQL Asp.Net Sample Series](http://fiyazhasan.me/graphql-with-asp-net-core-part-ii-middleware/)
