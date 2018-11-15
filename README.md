@@ -99,3 +99,8 @@
  
 #### CSS tips
 - [adding font-face with custom fonts](https://coderwall.com/p/5vrdkg/google-fonts-using-fontface-in-your-css)
+
+#### 3D printing
+ - https://www.amazon.com/gp/product/B07DGV2L8Z
+ - https://www.amazon.com/gp/product/B07F16WPR5
+ - https://www.youtube.com/user/TheMakersMuse
