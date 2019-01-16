@@ -42,6 +42,7 @@
 * [Phil Sturgeon](https://philsturgeon.uk/)
 * [Nate Barbettini – API Throwdown: RPC vs REST vs GraphQL, Iterate 2018](https://www.youtube.com/watch?v=IvsANO0qZEg)
 * [GraphQL Sample Project Instructions](https://medium.com/@shemseddine/setup-a-graphql-api-using-asp-net-core-79f1b88f6ad8)
+* [Adding Swagger to Web API Project](http://wmpratt.com/swagger-and-asp-net-web-api-part-1/)
 
 #### my blog posts
 * TO DO: ASP.Net Core Cookie Authentication in a Web Farm with DataProtection Middleware and Dapper
