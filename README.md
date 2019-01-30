@@ -20,10 +20,11 @@
 * [Custom CORS Policy](https://social.technet.microsoft.com/wiki/contents/articles/51042.asp-net-core-2-0-applying-cors-policies.aspx)
 * [ASPNET Core Swagger UI Authorization using IdentityServer4](https://www.scottbrady91.com/Identity-Server/ASPNET-Core-Swagger-UI-Authorization-using-IdentityServer4)
 
-#### ASP.NET workshops
+#### Workshops
 * [ASP.NET Core Authentication](https://github.com/blowdart/AspNetAuthenticationWorkshop)
 * [ASP.NET Core Authorization](https://github.com/blowdart/AspNetAuthorizationWorkshop)
 * [ASP.NET Core Application](https://www.jerriepelser.com/books/airport-explorer/basic/intro/)
+* [Blazor](https://github.com/dotnet-presentations/blazor-workshop/)
 
 #### angular
 * [Augulary](https://augury.angular.io/)
