@@ -98,6 +98,7 @@
 
 #### angular tips
  - To upgrade from angular 5 to angular 6 run ng update @angular/cli after running npm install npm install @angular/cli. This will rename angular-cli.json file to angular.json. You may have to try second time if it does not replace angular-cli.json with angular.json [source](http://www.talkingdotnet.com/upgrade-angular-5-app-angular-6-visual-studio-2017/)
+ - [Set up VSTS CI & CD for Angular Applications](https://stapp.space/run-angular-cli-react-cli-aurelia-or-vue-cli-build-in-vsts/)
  
 #### CSS tips
 - [adding font-face with custom fonts](https://coderwall.com/p/5vrdkg/google-fonts-using-fontface-in-your-css)
