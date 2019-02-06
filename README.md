@@ -19,6 +19,7 @@
 * [Customizing Swagger UI](https://cpratt.co/customizing-swagger-ui-in-asp-net-core/)
 * [Custom CORS Policy](https://social.technet.microsoft.com/wiki/contents/articles/51042.asp-net-core-2-0-applying-cors-policies.aspx)
 * [ASPNET Core Swagger UI Authorization using IdentityServer4](https://www.scottbrady91.com/Identity-Server/ASPNET-Core-Swagger-UI-Authorization-using-IdentityServer4)
+* [Everything/Presentations about ASP.NET](https://dotnet-presentations.github.io/)
 
 #### Workshops
 * [ASP.NET Core Authentication](https://github.com/blowdart/AspNetAuthenticationWorkshop)
