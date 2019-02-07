@@ -36,6 +36,7 @@
 * [CRUD Operations Using Angular HttpClient](http://www.dotnetcurry.com/angularjs/1438/http-client-angular)
 * [3 common mistakes in RxJs](https://medium.com/@paynoattn/3-common-mistakes-i-see-people-use-in-rx-and-the-observable-pattern-ba55fee3d031)
 * [Top 10 Angular Articles Of The Month](https://github.com/Mybridge/angular-articles)
+* [Building Dynamic Components](https://malcoded.com/posts/angular-dynamic-components?utm_campaign=NG-Newsletter&utm_medium=email&utm_source=NG-Newsletter_271)
 
 #### GraphQL & REST Apis
 * [GraphQL Asp.Net Sample Series](http://fiyazhasan.me/graphql-with-asp-net-core-part-ii-middleware/)
