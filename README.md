@@ -109,3 +109,6 @@
  - https://www.amazon.com/gp/product/B07DGV2L8Z
  - https://www.amazon.com/gp/product/B07F16WPR5
  - https://www.youtube.com/user/TheMakersMuse
+ 
+#### READ LATER
+ - https://news.ycombinator.com/item?id=19085772&utm_campaign=ASP.NET%20Weekly&utm_medium=email&utm_source=Revue%20newsletter
