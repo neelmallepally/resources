@@ -38,6 +38,8 @@
 * [Top 10 Angular Articles Of The Month](https://github.com/Mybridge/angular-articles)
 * [Building Dynamic Components](https://malcoded.com/posts/angular-dynamic-components?utm_campaign=NG-Newsletter&utm_medium=email&utm_source=NG-Newsletter_271)
 * [Validation in Enterprise Applications](https://juristr.com/blog/2019/02/display-server-side-validation-errors-with-angular/)
+* ### Localization
+ -- [Localization in Angular Using i18n Tools](https://dzone.com/articles/localization-in-angular-using-i18n-tools)
 
 #### GraphQL & REST Apis
 * [GraphQL Asp.Net Sample Series](http://fiyazhasan.me/graphql-with-asp-net-core-part-ii-middleware/)
