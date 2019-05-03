@@ -125,3 +125,8 @@
  - asp.net core
  - Azure
  
+#### Twitch Streams
+ - Jeff Fritz
+ - DevChatter
+ - Ardalis
+ - https://clips.twitch.tv/CrazyGoldenAntelopePJSugar
