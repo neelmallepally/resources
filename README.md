@@ -118,3 +118,9 @@
  
 #### READ LATER
  - https://news.ycombinator.com/item?id=19085772&utm_campaign=ASP.NET%20Weekly&utm_medium=email&utm_source=Revue%20newsletter
+ 
+#### Technologies/Frameworks I would like to learn/learning
+ - GraphQL
+ - Blazor
+ - asp.net core
+ 
