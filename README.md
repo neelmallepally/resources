@@ -123,4 +123,5 @@
  - GraphQL
  - Blazor
  - asp.net core
+ - Azure
  
