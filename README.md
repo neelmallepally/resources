@@ -40,6 +40,7 @@
 * [Validation in Enterprise Applications](https://juristr.com/blog/2019/02/display-server-side-validation-errors-with-angular/)
 * ### Localization
  -- [Localization in Angular Using i18n Tools](https://dzone.com/articles/localization-in-angular-using-i18n-tools)
+* [Angular Unit Testing](https://logrocket.com/blog/angular-unit-testing/)
 
 #### GraphQL & REST Apis
 * [GraphQL Asp.Net Sample Series](http://fiyazhasan.me/graphql-with-asp-net-core-part-ii-middleware/)
