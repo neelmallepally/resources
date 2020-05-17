@@ -105,6 +105,7 @@
 - Learn The Shortcut
 - https://stackoverflow.com/a/48046693/542240
 - [1:1s with managers] (https://den.dev/blog/one-on-ones/)
+- CRON expression
 
 #### angular tips
  - To upgrade from angular 5 to angular 6 run ng update @angular/cli after running npm install npm install @angular/cli. This will rename angular-cli.json file to angular.json. You may have to try second time if it does not replace angular-cli.json with angular.json [source](http://www.talkingdotnet.com/upgrade-angular-5-app-angular-6-visual-studio-2017/)
@@ -122,10 +123,13 @@
  - https://news.ycombinator.com/item?id=19085772&utm_campaign=ASP.NET%20Weekly&utm_medium=email&utm_source=Revue%20newsletter
  
 #### Technologies/Frameworks I would like to learn/learning
- - GraphQL
- - Blazor
  - asp.net core
  - Azure
+ - Angular
+ - GraphQL
+ - Blazor
+ 
+
  
 #### Twitch Streams
  - Jeff Fritz
