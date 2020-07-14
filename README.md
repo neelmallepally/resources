@@ -136,3 +136,7 @@
  - DevChatter
  - Ardalis
  - https://clips.twitch.tv/CrazyGoldenAntelopePJSugar
+ 
+ 
+ 
+ - I'll give basic rundown of ....
