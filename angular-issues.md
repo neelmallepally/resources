@@ -19,9 +19,9 @@ export class ChildComponent {
 
 ParentComponent.ts
 
-####Not working:
+#### Not working:
 ViewChild(ChildComponent, {static: true}) child: ChildComponent;
 child.next(); in the parent component will result in next method not available on undefined
-####Fix:
+#### Fix:
 ViewChild(ChildComponent, {static: false}) child: ChildComponent;
 
