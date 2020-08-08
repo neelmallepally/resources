@@ -73,6 +73,7 @@
 
 #### Community
 * http://jakedawkins.com
+* https://meekg33k.dev/what-i-learned-from-doing-60-technical-interviews-in-30-days-ckda9sn7s00iftss13b0wd0ky?utm_source=hackernewsletter
 
 
 #### MarkDown Shortcuts
