@@ -109,6 +109,7 @@
 - CRON expression
 - [Transient Fault Handling with Dapper and Polly](https://gist.github.com/hyrmn/ce124e9b1f50dbf9d241390ebc8f6df3)
 - [Json Editor Online](https://jsoneditoronline.org/)
+- [Convert Json to class](https://app.quicktype.io/)
 - 
 
 #### angular tips
