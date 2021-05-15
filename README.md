@@ -108,6 +108,8 @@
 - [1:1s with managers] (https://den.dev/blog/one-on-ones/)
 - CRON expression
 - [Transient Fault Handling with Dapper and Polly](https://gist.github.com/hyrmn/ce124e9b1f50dbf9d241390ebc8f6df3)
+- [Json Editor Online](https://jsoneditoronline.org/)
+- 
 
 #### angular tips
  - To upgrade from angular 5 to angular 6 run ng update @angular/cli after running npm install npm install @angular/cli. This will rename angular-cli.json file to angular.json. You may have to try second time if it does not replace angular-cli.json with angular.json [source](http://www.talkingdotnet.com/upgrade-angular-5-app-angular-6-visual-studio-2017/)
