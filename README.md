@@ -1,5 +1,8 @@
 # resources
 
+#### System Design
+* https://github.com/donnemartin/system-design-primer/blob/master/README.md#system-design-topics-start-here
+
 #### asp.net community stand up links
 * [Feb 20, 2018 Razor UI in class libraries](https://www.one-tab.com/page/PiTdahJmTn65szGajXoqwA)
 
