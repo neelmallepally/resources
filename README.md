@@ -7,7 +7,7 @@
 * [Feb 20, 2018 Razor UI in class libraries](https://www.one-tab.com/page/PiTdahJmTn65szGajXoqwA)
 
 
-#### ASP.NET blog posts
+#### .NET blog posts
 * [Is the repository pattern useful with Entity Framework Core?](https://www.thereformedprogrammer.net/is-the-repository-pattern-useful-with-entity-framework-core/)
 * [Adding ASP.NET Core Identity to an existing project](https://hanson.io/bootstrapping-asp-net-core-week-4/)
 * [OpenID Connect Debugger](https://www.recaffeinate.co/post/introducing-openid-connect-debugger/)
@@ -23,6 +23,7 @@
 * [Custom CORS Policy](https://social.technet.microsoft.com/wiki/contents/articles/51042.asp-net-core-2-0-applying-cors-policies.aspx)
 * [ASPNET Core Swagger UI Authorization using IdentityServer4](https://www.scottbrady91.com/Identity-Server/ASPNET-Core-Swagger-UI-Authorization-using-IdentityServer4)
 * [Everything/Presentations about ASP.NET](https://dotnet-presentations.github.io/)
+* [Read CSV using System.Pipelines](https://goldytech.wordpress.com/)
 
 #### Workshops
 * [ASP.NET Core Authentication](https://github.com/blowdart/AspNetAuthenticationWorkshop)
