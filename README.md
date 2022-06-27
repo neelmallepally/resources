@@ -1,5 +1,8 @@
 # resources
 
+#### 2022 ASP.NET Developer Roadmap
+* https://github.com/MoienTajik/AspNetCore-Developer-Roadmap
+
 #### System Design
 * https://github.com/donnemartin/system-design-primer/blob/master/README.md#system-design-topics-start-here
 
