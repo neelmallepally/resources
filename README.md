@@ -1,5 +1,8 @@
 # resources
 
+#### migrating from .net to .net core
+* Class Library for targeting multiple frameworks - https://www.cafe-encounter.net/p2312/multi-targetting-net-framework-and-net-core-in-a-single-project
+
 #### Async/Await
 * Part 1: https://www.youtube.com/watch?v=FIZVKteEFyk
 * Part 2: https://www.youtube.com/watch?v=S49dpEwMSUY
