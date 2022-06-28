@@ -1,5 +1,9 @@
 # resources
 
+#### Async/Await
+* Part 1: https://www.youtube.com/watch?v=FIZVKteEFyk
+* Part 2: https://www.youtube.com/watch?v=S49dpEwMSUY
+
 #### 2022 ASP.NET Developer Roadmap
 * https://github.com/MoienTajik/AspNetCore-Developer-Roadmap
 
