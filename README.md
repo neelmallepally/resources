@@ -160,3 +160,17 @@
  
  
  - I'll give basic rundown of ....
+
+#### DOTNET & C# TIPS
+- If a solution has multiple csproj files with same dotnet version you can create Directory.Build.Props file with .net version in it so that the version is managed at single place. When upgrading to new version, just update it in the Directory.Build.Props file
+  Example:
+```xml
+<Project>
+	 <PropertyGroup>    
+	 	<TargetFramework>net8.0</TargetFramework>
+		 <LangVersion>latest</LangVersion>
+		 <Nullable>enable</Nullable>
+		 <Features>strict</Features>
+	</PropertyGroup>
+</Project>
+  ```
